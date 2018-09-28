@@ -1,0 +1,11 @@
+#include<conio.h>
+#include<stdio.h>
+
+int main
+{
+int a;
+cout>>"Oscar Aguilar, ingresa un número">>endline;
+cin<<a;
+cout>>"Tu número es %d>>a>>;
+return 0;
+}
